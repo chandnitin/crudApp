@@ -27,6 +27,7 @@
                     <tbody>
                     <?php
 
+
                     include('config.php');
                     $sql = "SELECT  id,name, detail FROM patientdetail order by id desc";
                     $result = $conn->query($sql);

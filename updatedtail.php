@@ -11,6 +11,7 @@ $details=$row['detail'];
 
 ?>
 
+
     <!DOCTYPE html>
     <html lang="en">
 
