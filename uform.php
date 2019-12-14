@@ -10,6 +10,7 @@
   <link rel="stylesheet" type="text/css" href="Style.css">
 </head>
 <body>
+<h1>Add New User</h1>
 <div class="container">
 <form class="form-horizontal" action="user.php" method="post">
   <div class="form-group">
