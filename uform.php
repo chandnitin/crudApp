@@ -7,12 +7,13 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="Style.css">
 </head>
 <body>
 <div class="container">
 <form class="form-horizontal" action="user.php" method="post">
   <div class="form-group">
-    <label for="name">my name:</label>
+    <label for="name">My Name:</label>
     <input type="text" class="form-control" id="name" name="name">
   </div>
   <div class="form-group">

@@ -31,7 +31,7 @@ $details=$row['detail'];
 <form class="form-horizontal" action="update.php" method="post">
   <div class="form-group">
   <input type="hidden" name="uid" id="uid" value="<?php echo $id; ?>" >
-    <label for="name">my name:</label>
+    <label for="name">My name:</label>
     <input type="text" class="form-control" id="name" name="name"  value="<?php echo $name ?>">
   </div>
   <div class="form-group">
